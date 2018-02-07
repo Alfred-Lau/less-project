@@ -1,0 +1,22 @@
+{
+  "name": "less-project",
+  "version": "1.0.0",
+  "description": "less learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alfred-Lau/less-project.git"
+  },
+  "keywords": [
+    "less"
+  ],
+  "author": "lj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alfred-Lau/less-project/issues"
+  },
+  "homepage": "https://github.com/Alfred-Lau/less-project#readme"
+}
