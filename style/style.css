@@ -1,0 +1,12 @@
+.hello .world {
+  background: #f3f3f3;
+  /*bianyi*/
+  color: #eee;
+  height: 100px;
+}
+.triangle {
+  width: 0;
+  border: 100px;
+  border-color: #f00 transparent transparent transparent;
+  border-style: solid;
+}
